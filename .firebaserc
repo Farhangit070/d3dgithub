@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "district3developers-3"
+  },
+  "targets": {
+    "district3developers-3": {
+      "hosting": {
+        "mdb-angular-ui-kit-free": [
+          "district3developers-3"
+        ]
+      }
+    }
+  }
+}
